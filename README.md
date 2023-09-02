@@ -1,4 +1,4 @@
-[[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)>](http://ww25.rishavchanda.io/?subid1=20230903-0153-177e-87f4-f09439ff378a)
+[![MasterHead](http://ww25.rishavchanda.io/?subid1=20230903-0153-177e-87f4-f09439ff378a)
 
 <h1 align="center">Hi 👋, I'm John Ryan Briz</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
