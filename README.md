@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/cW8fXoULgr8AAAAC/developers.gif)
+![MasterHead](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zjhjsh3qcwd6s4lhhbbaja58bvct37zy8itkvez2&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 <h1 align="center">I'm John Ryan Briz (Rye)</h1>
 <h3 align="center">A BSCS Student and passionate Front-End Developer from 🇵🇭</h3>
