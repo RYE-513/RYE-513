@@ -5,9 +5,9 @@
 <h3 align="center">A BSCS Student and passionate Front-End Developer from 🇵🇭</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47dobfa0wbv6e618uz5higcywhpynm817ka94cjm05&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on Python GUI Projects **GUI Pomodoro Timer**
+- 🔭 I’m currently working on Vue,js project
 
-- 🌱 I’m currently learning JavaScript **React.JS**
+- 🌱 I’m currently learning **Vue.JS**
 
 - 📫 How to reach me **jryan.briz@gmail.com**
 
