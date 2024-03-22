@@ -2,7 +2,7 @@
 
 
 <h1 align="center">I'm John Ryan Briz (Rye)</h1>
-<h3 align="center">A BSCS Student and passionate Front-End Developer from 🇵🇭</h3>
+<h3 align="center">A BSCS Student and passionate Fullstack Web Developer from 🇵🇭</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47dobfa0wbv6e618uz5higcywhpynm817ka94cjm05&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on Vue,js project
