@@ -1,4 +1,4 @@
-![MasterHead](https://wall.alphacoders.com/big.php?i=1218911)
+![MasterHead](https://images.alphacoders.com/121/1218911.jpg)
 
 
 <h1 align="center">I'm John Ryan Briz (Rye)</h1>
