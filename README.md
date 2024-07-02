@@ -2,7 +2,7 @@
 
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47dobfa0wbv6e618uz5higcywhpynm817ka94cjm05&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47dobfa0wbv6e618uz5higcywhpynm817ka94cjm05&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+<img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 
 - 🔭 I’m currently working on **Django RESTful API**
