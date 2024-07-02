@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/6kmnck9qw8](https://flowcv.com/resume/6kmnck9qw8)
 
-- ⚡ Fun fact **i am Johnson user in MLBB**
+- ⚡ Fun fact **i am Johnson user in MLBB** ID: 1517778657 (11744)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
