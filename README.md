@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Django RESTful API**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **jryan.briz@gmail.com**
 
