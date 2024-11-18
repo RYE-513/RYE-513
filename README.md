@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jryan.briz@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/6kmnck9qw8](https://flowcv.com/resume/6kmnck9qw8)
+- 📄 Know about my experiences [https://flowcv.com/resume/6kmnck9qw8](https://heyzine.com/flip-book/707cb7fc48.html)
 
 - ⚡ Fun fact **i am Tank user in Mobile Legends | UID: 1517778657 (11744)**
 
