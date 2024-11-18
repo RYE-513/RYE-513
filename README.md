@@ -1,15 +1,15 @@
 <!--  ![MasterHead](https://images.alphacoders.com/121/1218911.jpg) -->
 
-<!-- <h1 align="center">John Ryan J. Briz, BSCS</h1>
+<h1 align="center">John Ryan J. Briz, BSCS</h1>
 <h3 align="center">Aspiring Cloud & Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47dobfa0wbv6e618uz5higcywhpynm817ka94cjm05&ep=v1_gifs_search&rid=giphy.gif&ct=g">
- <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"> -->
+<!-- <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"> -->
 
+<!--
 - 🌱 I’m currently learning about **AWS Cloud Computing Fundamentals**
-
 - 📫 How to reach me **jryan.briz@gmail.com**
-
 - 📄 Know about my experiences [ATS Resume](https://heyzine.com/flip-book/707cb7fc48.html)
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
