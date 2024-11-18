@@ -3,7 +3,7 @@
 <h1 align="center">John Ryan J. Briz, BSCS</h1>
 <h3 align="center">Aspiring Cloud & Tech Enthusiast</h3>
 
-<img align="right" alt="Cloud" width="600" height="600" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*GZPK1y5ajxuQSfF7U4rv4g.gif">
+<img align="right" alt="Cloud" width="600" height="300" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*GZPK1y5ajxuQSfF7U4rv4g.gif">
 
 <!-- Programming .gif
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47dobfa0wbv6e618uz5higcywhpynm817ka94cjm05&ep=v1_gifs_search&rid=giphy.gif&ct=g">
